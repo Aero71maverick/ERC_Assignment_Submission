@@ -42,3 +42,4 @@ This repo contains the solution to the problem of Demodulating and filtering out
 
 - Finally, the sound decoded is Ha Ha Ha Ha Ha Haaaa
 
+[![Watch the video](Thumbnail_erc.png)](proof_of_decoding.mp4)
