@@ -42,4 +42,3 @@ This repo contains the solution to the problem of Demodulating and filtering out
 
 - Finally, the sound decoded is Ha Ha Ha Ha Ha Haaaa
 
-<audio controls src="filtered_audio.wav"></audio>
