@@ -41,5 +41,5 @@ This repo contains the solution to the problem of Demodulating and filtering out
 ![My Image](Message_signal_filtered.png)
 
 - Finally, the sound decoded is Ha Ha Ha Ha Ha Haaaa
-- 
+
 [![Demo](Thumbnail_erc.png)](https://youtu.be/ym9jeM8pV_o)
